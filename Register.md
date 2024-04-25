@@ -77,7 +77,7 @@ root@iZn4aampde1w0vhbnmvrlaZ:/home/ubuntu/hyperledger/multinodes/fabric-ca-serve
 
 
 
-### fabric-ca-client
+### fabric-ca-client部署
 
 ```shell
 root@iZn4aampde1w0vhbnmvrlaZ:~# cd /home/ubuntu/hyperledger/multinodes/fabric-ca-client/
